@@ -105,7 +105,9 @@
 	.about p, h2 {
 		padding-right: 7em;
 	}
-
+	.about h2{
+		color:#73455a;
+	}
 
 	aside img {
 		margin: 20% auto;
